@@ -1,0 +1,17 @@
+/.metadata
+/.qsys_edit
+/db
+/incremental_db
+/output_files
+/RemoteSystemsTempFiles
+/simulation
+.settings
+obj
+.cproject
+.force_relink
+.project
+*.elf
+*.map
+*.objdump
+*.a
+*.gdb
